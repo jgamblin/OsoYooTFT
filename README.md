@@ -80,7 +80,7 @@ To enable LCD:
  
  `./LCD_restore`
  
- ## More Files
+##More Files
  There are [more files here] (http://en.kedei.net/raspberry/raspberry.html).
  
 ##Important Notice
