@@ -1,7 +1,7 @@
 # OsoYoo 3.5" Touch Screen Raspberry Pi Install
 
 I ended up buying this [$20 Raspberry Pi Case and Touch Screen] 
-(http://www.amazon.com/OSOYOO-Display-Monitor-Transparent-Raspberry/dp/B013E0IJVE) thinking that configuration would be fairly easy. I was wrong. It took me a better part of a weekend to figure out.  I put all the files needed here hoping to help someone else. 
+(http://www.amazon.com/OSOYOO-Display-Monitor-Transparent-Raspberry/dp/B013E0IJVE) thinking that configuration would be fairly easy. I was wrong. It took me a better part of a weekend to figure out.  I put this together hoping to help someone else. 
 
 ## Board Identifcation 
 
@@ -12,7 +12,7 @@ The boards should be fairly clearly marked on the back:
 
 ##V5 Installation
 
-Launch Terminal:
+From the Terminal:
 
  `cd Documents `
  
@@ -36,7 +36,7 @@ To enable LCD:
  
 ##V4 Installation
 
-Launch Terminal:
+From the Terminal:
 
  `cd Documents`
  
@@ -59,7 +59,7 @@ To enable LCD:
 
 ##V6 Installation
 
-Launch Terminal:
+From the Terminal:
 
  `cd Documents`
  
