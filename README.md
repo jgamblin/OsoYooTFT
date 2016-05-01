@@ -76,7 +76,7 @@ To enable LCD:
  
  To enable HDMI:
 
- `cd LCD_show_v3`
+ `cd LCD_show_v6`
  
  `./LCD_restore`
  
